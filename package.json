@@ -1,0 +1,22 @@
+{
+  "name": "docker-js-front",
+  "version": "1.0.0",
+  "description": "Frontend for containarized quote application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncardonab/docker-js-front.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ncardonab/docker-js-front/issues"
+  },
+  "homepage": "https://github.com/ncardonab/docker-js-front#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
